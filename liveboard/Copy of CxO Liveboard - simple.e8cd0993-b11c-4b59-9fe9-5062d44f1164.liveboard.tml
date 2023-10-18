@@ -1,6 +1,6 @@
-guid: 084bd22e-3569-47c5-952f-62687157b4d3
+guid: e8cd0993-b11c-4b59-9fe9-5062d44f1164
 liveboard:
-  name: CxO Liveboard - simple
+  name: Copy of CxO Liveboard - simple
   visualizations:
   - id: Viz_1
     answer:
@@ -37,7 +37,7 @@ liveboard:
         client_state: ""
         client_state_v2: "{\"version\": \"V4DOT2\",\"chartProperties\": {\"responsiveLayoutPreference\": \"AUTO_ON\",\"chartSpecific\": {\"pivotSummariesState\": {}},\"showStackedLabels\": true,\"allLabels\": true},\"columnProperties\": [{\"columnId\": \"Deal Stage\",\"columnProperty\": {}},{\"columnId\": \"Total Amount\",\"columnProperty\": {\"dataLabels\": true}}],\"axisProperties\": [{\"id\": \"d7c5e49a-3ba7-4e03-948d-88bf2854572c\",\"properties\": {\"axisType\": \"Y\",\"linkedColumns\": [\"Total Amount\"],\"isOpposite\": false}},{\"id\": \"fff15e41-777f-49e9-81d1-82d3508b4183\",\"properties\": {\"axisType\": \"X\",\"linkedColumns\": [\"Deal Stage\"]}}],\"systemSeriesColors\": [{\"serieName\": \"Total Amount\",\"color\": \"#2E75F0\"}]}"
       display_mode: CHART_MODE
-    viz_guid: 2c45760f-fd14-4162-875b-30a1b6c6c17d
+    viz_guid: 21f10b4c-180d-495f-ba99-969c019ef68a
   - id: Viz_2
     answer:
       name: Total Amount by Pipeline
@@ -73,9 +73,9 @@ liveboard:
         client_state: ""
         client_state_v2: "{\"version\": \"V4DOT2\",\"chartProperties\": {\"responsiveLayoutPreference\": \"AUTO_ON\",\"chartSpecific\": {\"pivotSummariesState\": {}}},\"columnProperties\": [{\"columnId\": \"Total Amount\",\"columnProperty\": {}},{\"columnId\": \"adc4e869-1962-4413-9447-9c7bba5a05f8\",\"columnProperty\": {}}],\"axisProperties\": [{\"id\": \"d7c5e49a-3ba7-4e03-948d-88bf2854572c\",\"properties\": {\"axisType\": \"Y\",\"linkedColumns\": [\"Total Amount\"],\"isOpposite\": false}},{\"id\": \"fff15e41-777f-49e9-81d1-82d3508b4183\",\"properties\": {\"axisType\": \"X\",\"linkedColumns\": [\"adc4e869-1962-4413-9447-9c7bba5a05f8\"]}}],\"systemSeriesColors\": [{\"serieName\": \"Total Amount\",\"color\": \"#2E75F0\"}]}"
       display_mode: CHART_MODE
-    viz_guid: 7d0a2f1a-e2b9-491b-9acb-7c0b5dac273a
+    viz_guid: bc967f31-0412-4023-81ca-fe13d300f67e
   - id: Viz_3
-    viz_guid: 47b75065-b115-4363-a690-08de683918b8
+    viz_guid: 1073a90b-4d2f-4237-b243-b081c8aa04b4
     note_tile:
       html_parsed_string: <h2><span>Liveboard v3</span></h2>
   - id: Viz_4
@@ -120,11 +120,11 @@ liveboard:
         client_state: ""
         client_state_v2: "{\"version\": \"V4DOT2\",\"chartProperties\": {\"responsiveLayoutPreference\": \"AUTO_ON\",\"chartSpecific\": {\"pivotSummariesState\": {}}},\"columnProperties\": [{\"columnId\": \"Deal Stage\",\"columnProperty\": {}},{\"columnId\": \"Total Amount\",\"columnProperty\": {}},{\"columnId\": \"Deal Type\",\"columnProperty\": {}}],\"axisProperties\": [{\"id\": \"51a4de60-8e97-42d8-ae2a-d17ec4520417\",\"properties\": {\"axisType\": \"Y\",\"linkedColumns\": [\"Total Amount\"],\"isOpposite\": false}},{\"id\": \"7f302ff8-468c-4f25-979f-0949b9c143e8\",\"properties\": {\"axisType\": \"X\",\"linkedColumns\": [\"Deal Stage\"]}}],\"systemSeriesColors\": [{\"serieName\": \"Total Amount\",\"color\": \"#2770ef\"},{\"serieName\": \"existing business\",\"color\": \"#48D1E0\"},{\"serieName\": \"new business\",\"color\": \"#2E75F0\"}]}"
       display_mode: CHART_MODE
-    viz_guid: 375477bc-c6d4-4a05-9eae-0759a4cf932f
+    viz_guid: 7705ecb2-0a48-47bf-b027-5e9d9cd3258e
   - id: Viz_5
-    viz_guid: b9d0cb94-744a-4fce-8c63-421ae9d616f8
+    viz_guid: 7d837775-4cb1-4359-9394-f38edc6334ea
     note_tile:
-      html_parsed_string: <h1 dir="ltr"><span>V2 of simple liveboard</span></h1>
+      html_parsed_string: <h1 dir="ltr"><span>Copy of V2 of simple liveboard</span></h1>
   layout:
     tabs:
     - name: Tab 1
