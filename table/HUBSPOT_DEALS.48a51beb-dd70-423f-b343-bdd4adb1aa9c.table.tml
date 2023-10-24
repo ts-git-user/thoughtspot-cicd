@@ -3,7 +3,7 @@ table:
   name: HUBSPOT_DEALS
   db: SPOTAPPS_DB
   schema: HUBSPOT
-  db_table: HUBSPOT_DEALS_dev
+  db_table: HUBSPOT_DEALS_decc
   connection:
     name: Snowflake
     fqn: 2bc200fb-5eb7-49af-9409-99f43c69d5bf
